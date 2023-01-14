@@ -106,4 +106,4 @@ Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for S
 
 ## Fork Maintainer
 
-This repository is maintained by [jbuncle](https://www.jbuncle.co.uk).
+This repository is maintained by [ghostjat](https://github.com/ghostjat)
