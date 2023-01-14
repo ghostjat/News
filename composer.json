@@ -1,0 +1,34 @@
+{
+    "name": "ghostjat/News",
+    "description": "Small php library for News-Api and Sentiment Analyis .",
+    "type": "library",
+    "keywords": ["php", "News","Api" ,"Sentiments Analysis" ,"vader","sentiment","analysis","News-Api"],
+    "homepage": "https://github.com/ghostjat/News",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shubham Chaudhary",
+            "email": "ghost.jat@gmail.com",
+            "role": "dev"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ghostjat/News/issues?state=open",
+        "source": "https://github.com/ghostjat/News",
+        "email": "ghost.jat@gmail.com"
+    },
+    
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core"
+        }
+    },
+    "require":{
+        "php": "^8.0"
+    },
+    "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  }
+}
