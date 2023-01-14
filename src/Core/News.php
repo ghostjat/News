@@ -204,21 +204,6 @@ class News {
         return date('d-m-Y h:i', strtotime($date));
     }
 
-    public function icon(string $type) {
-        switch ($type) {
-            case 'dw':
-                $icon = html_entity_decode('&#8711;');
-                break;
-            case 'up':
-                $icon = html_entity_decode('&#916;');
-                break;
-            case 'nu':
-                $icon = html_entity_decode('&hArr;');
-                break;
-        }
-        return $icon;
-    }
-
     /**
      * 
      * @param string $route

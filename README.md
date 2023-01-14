@@ -51,34 +51,48 @@ echo $table->fromArray(['Date','Title','View','Score'], $analyisData);
 +------------------+-------------------------------------------------------------------------------------------------------+------+---------+
 | Date             | Title                                                                                                 | View | Score   |
 +------------------+-------------------------------------------------------------------------------------------------------+------+---------+
-| 14-01-2023 05:14 | Watch: Shah Rukh Khan's 'Pathaan' trailer lights up Burj Khalifa - Khaleej Times                      | ⇔  | 0.2732  |
-| 14-01-2023 04:50 | CBI At My Office, Tweets Arvind Kejriwal's Deputy; Agency Says No Raid - NDTV                         | ∇  | -0.296  |
-| 14-01-2023 03:48 | Cold Wave Redux Won't Freeze Delhi But Temperatures May Drop To... - NDTV                             | ∇  | -0.2866 |
-| 14-01-2023 03:33 | 2 BILLION Google Chrome users hit by browser security flaw! Protect yourself now - HT Tech            | Δ  | 0.6476  |
-| 14-01-2023 03:18 | DMK's Shivaji Krishnamoorthy suspended for remarks against governor RN Ravi - Hindustan Times         | ∇  | -0.4767 |
-| 14-01-2023 03:15 | Watch: Twitter Fumes Over Bruno Fernandes' Controversial Goal In Manchester Derby - NDTV Sports       | ∇  | -0.2263 |
-| 14-01-2023 02:59 | ‘3,500 hours of torture, forced me…’: British-Iranian man before execution - Hindustan Times          | ∇  | -0.7845 |
-| 14-01-2023 02:44 | Video: Delhi Man Dragged For Half-A-Kilometre On Car Bonnet - NDTV                                    | ∇  | -0.0516 |
-| 14-01-2023 01:40 | Highlights: HDFC Bank, Avenue Supermarts-owned DMart release Q3FY23 earnings - check profit, revenue  | ⇔  | 0.4404  |
-| 14-01-2023 01:15 | Star shaped into a Donut by black hole! Terrifying snap taken by NASA's Hubble Telescope - HT Tech    | ∇  | -0.6114 |
-| 14-01-2023 12:59 | At least 2 feared dead, 10 hurt as Odisha's longest bridge sees stampede - Hindustan Times            | ∇  | -0.9287 |
-| 14-01-2023 12:35 | Chopped Up Body Found In Delhi Day After 2 Arrested Over Terror Links: Sources - NDTV                 | ∇  | -0.6597 |
-| 14-01-2023 12:18 | Hockey WC: India expect tougher outing against England - Rediff.com                                   | ⇔  | 0.1779  |
-| 14-01-2023 12:12 | Rajasthan engineer suspended for trying to touch President Murmu's feet | Video - Hindustan Times     | ∇  | -0.4767 |
-| 14-01-2023 11:45 | Samsung Galaxy S23 Ultra, Galaxy S23 Plus design images leaked ahead of February 1 event - Moneycontr | ∇  | -0.3182 |
-| 14-01-2023 10:22 | China Covid scare: All of Beijing residents likely to get infected by end of January, claims study -  | ∇  | -0.7506 |
-| 14-01-2023 09:15 | 'Rohit has made it clear': India great's blunt reaction to Ishan, SKY's ODI snub - Hindustan Times    | ∇  | -0.4215 |
-| 14-01-2023 08:36 | WHO urges South-East Asian countries to take urgent and accelerated measures against measles | - News | ⇔  | 0.2023  |
-| 14-01-2023 07:50 | 'No veteran like Bhishma Pitamah...': Rajnath Singh as he praises soldiers - Hindustan Times          | Δ  | 0.5719  |
-| 14-01-2023 05:03 | KIA Police Car At Auto Expo 2023 - Rediff.com                                                         | ∇  | -0.7125 |
-| 14-01-2023 05:02 | No link between sinking of Joshimath and NTPC tunnel projects, Centre says | Mint - Mint              | ∇  | -0.296  |
-| 14-01-2023 02:35 | Bigg Boss 16: Shiv Thakare cries uncontrollably, MC Stan, Nimrit Kaur Ahluwalia break down after Abdu | ∇  | -0.7506 |
-| 13-01-2023 06:59 | Wipro Limited (WIT) Q3 2023 Earnings Call Transcript - Seeking Alpha                                  | ∇  | -0.2263 |
-| 13-01-2023 01:02 | Slim Keto Gummies Reviews [Scam Exposed] Slim Candy Keto Gummies | Side Effects ALERT Must Read Befor | ⇔  | 0.4466  |
-| 13-01-2023 12:00 | ECDC assesses risk to the EU/EEA associated with Omicron XBB1.5 sub-lineage - European Centre for Dis | ∇  | -0.2732 |
-| 13-01-2023 08:38 | Trial by Fire Review: Gripping - Rediff.com                                                           | ∇  | -0.34   |
-| 13-01-2023 06:13 | US Flight Glitch Caused By Personnel Who Damaged Data File - NDTV                                     | ∇  | -0.4404 |
+| 14-01-2023 06:30 | Mahindra launches new range of Thar in Kashmir - Greater Kashmir                                      |   ⇔  | 0.3612  |
+| 14-01-2023 04:26 | Global Auto Giant Japan praises Indian Auto Fair - ANI News                                           |   Δ  | 0.6908  |
+| 14-01-2023 01:40 | Highlights: HDFC Bank, Avenue Supermarts-owned DMart release Q3FY23 earnings - check profit, revenue  |   ⇔  | 0.4404  |
+| 14-01-2023 11:20 | YouTube might soon start streaming TV channels for free - GSMArena.com news - GSMArena.com            |   ⇔  | 0.5106  |
+| 14-01-2023 11:11 | ‘People crying in office’: Amazon India employee describes scene amid layoffs - Moneycontrol          |   ∇  | -0.34   |
+| 14-01-2023 09:38 | Top 10 SUVs Sold In 2022 - Nexon, Creta, Brezza, Punch, Venue, Seltos - GaadiWaadi.com                |   ⇔  | 0.2023  |
+| 14-01-2023 08:50 | The Budget push that can make India's tourism sector one of the world's best - Economic Times         |   Δ  | 0.6369  |
+| 14-01-2023 08:45 | Twitter India is emptying out its offices - Moneycontrol                                              |   ∇  | -0.1531 |
+| 14-01-2023 08:35 | 27 smallcaps gain 10-34%as market bounces back; midcap index flat - Moneycontrol                      |   ⇔  | 0.5267  |
+| 14-01-2023 07:16 | CNG powered Range Rover is actually a New Maruti Brezza in disguise [Video] - CarToq.com              |   ∇  | -0.25   |
+| 14-01-2023 05:52 | Flying from Mangaluru? Get ready to shell out more from April - Moneycontrol                          |   ⇔  | 0.3612  |
+| 14-01-2023 05:39 | Employee Working Remotely Sues Company But Ordered To Pay $2,600 For Time Theft - NDTV                |   ∇  | -0.1027 |
+| 14-01-2023 05:03 | KIA Police Car At Auto Expo 2023 - Rediff.com                                                         |   ∇  | -0.7125 |
+| 14-01-2023 03:54 | Paytm down 75%from IPO price. Is this a good entry point for new investors? - Moneycontrol            |   ∇  | -0.296  |
+| 14-01-2023 03:44 | Hero Moto Corp starts trial production of flex-fuel motorcycles, as other OEMs showcase vehicles goin |   Δ  | 0.5574  |
+| 14-01-2023 03:28 | 8 ‘ChatGPT apps’ on Google Play Store that are ‘fake’ - Gadgets Now                                   |   ⇔  | 0.34    |
+| 14-01-2023 12:06 | Traders bid stocks, gold, and Silver higher, but is the optimism warranted? - Kitco NEWS              |   Δ  | 0.6956  |
+| 13-01-2023 06:59 | Wipro Limited (WIT) Q3 2023 Earnings Call Transcript - Seeking Alpha                                  |   ∇  | -0.2263 |
+| 13-01-2023 06:01 | Google Says Antitrust Penalty A Strike Blow At Digital Adoption In India - NDTV                       |   ∇  | -0.5423 |
+| 13-01-2023 05:32 | S&P 500, Nasdaq pare losses as inflation expectations ease By Reuters - Investing.com                 |   ∇  | -0.0516 |
+| 13-01-2023 05:18 | Goldman Sachs lost $1.2 billion in 2022 mostly because of Apple Card - AppleInsider                   |   ∇  | -0.3182 |
+| 13-01-2023 04:32 | Adidas Loses Stripe Trademark Battle To Luxury Designer Thom Browne - NDTV                            |   ∇  | -0.5994 |
+| 13-01-2023 02:19 | NDTV says president, other senior execs resign - The Indian Express                                   |   ∇  | -0.34   |
+| 13-01-2023 02:06 | Meet Ravi Kumar, Cognizant's new CEO whose salary is 4 times Mukesh Ambani's 2020 pay; his joining bo |   ⇔  | 0.4767  |
+| 13-01-2023 01:00 | China's Oil Demand Is Set To Hit A Record High In 2023 - OilPrice.com                                 |   ∇  | -0.128  |
+| 13-01-2023 12:18 | Tech View: Doji candle on Nifty weekly charts shows tug-of-war. What traders should do next week - Ec |   ⇔  | 0.4019  |
+| 13-01-2023 12:08 | Tesla cuts EV prices in US amid poor sales - Greatandhra                                              |   ∇  | -0.6486 |
+| 13-01-2023 11:59 | Troubles Galore for Vodafone Idea as Indus Towers Threat Resurface - TelecomTalk                      |   ∇  | -0.7506 |
+| 13-01-2023 11:02 | Royal Enfield Super Meteor 650 India launch: What to expect? - BikeWale                               |   Δ  | 0.5994  |
+| 13-01-2023 10:05 | Kia Carens announced as the Winner of Indian Car of the Year award 2023 - CarToq.com                  |   ⇔  | 0.4767  |
+| 13-01-2023 10:03 | Fixed deposits offering up to 9%interest rates — Is it the time to book FDs or wait for more hikes    |   Δ  | 0.6249  |
+| 13-01-2023 09:49 | Young founder allegedly sells startup with fake users to JPMorgan for around Rs 1450 crore, now sued  |   ∇  | -0.4767 |
+| 13-01-2023 09:36 | Auto Expo 2023: Joy Mihos high-speed e-scooter launched at Rs 1.49 lakh - BikeWale                    |   Δ  | 0.6486  |
+| 13-01-2023 09:13 | Amazon Republic Day sale: Dates, how to get best deals and more - Gadgets Now                         |   Δ  | 0.7096  |
+| 13-01-2023 08:57 | Apple CEO Tim Cook takes a $35 million pay cut in 2023 - GSMArena.com news - GSMArena.com             |   ∇  | -0.3612 |
+| 13-01-2023 07:50 | Govt raids Mukesh Ambanis Hamleys and Archies, seizes 18,000 toys - Free Press Journal                |   ⇔  | 0.5106  |
+| 13-01-2023 07:11 | NCLT gives Jalan-Kalrock consortium 6 more months to pay & take control of Jet Airways - Economic Tim |   ∇  | -0.1761 |
+| 13-01-2023 07:05 | Zerodha’s Nithin Kamath: It has been a painful bull market for active traders - Moneycontrol          |   ∇  | -0.0516 |
+| 13-01-2023 06:59 | Centrum's business heads asked to quit due to 'loss of confidence' - Economic Times                   |   ⇔  | 0.25    |
+| 13-01-2023 01:02 | HCCB revives plans to sell Coca-Cola's bottling business - The Economic Times                         |   ⇔  | 0.3818  |
 +------------------+-------------------------------------------------------------------------------------------------------+------+---------+
+
 
 ```
 
