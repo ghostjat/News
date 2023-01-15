@@ -1,5 +1,5 @@
 {
-    "name": "ghostjat/News",
+    "name": "ghostjat/news",
     "description": "Small php library for News-Api and Sentiment Analyis .",
     "type": "library",
     "keywords": ["php", "News","Api" ,"Sentiments Analysis" ,"vader","sentiment","analysis","News-Api"],
